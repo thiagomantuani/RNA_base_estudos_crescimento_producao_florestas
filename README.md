@@ -2,4 +2,4 @@
 
 Rede Neural Artificial aplicada em uma base de estudos de crescimento de produção florestal.
 
-[base_estudos_em_crescimento_producao_final.ipynb](/base_estudos_em_crescimento_producao_final.ipynb)
+O projeto encontra-se neste [notebook](/base_estudos_em_crescimento_producao_final.ipynb)
